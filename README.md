@@ -5,5 +5,5 @@ a passionate web development student on a mission to create amazing digital expe
 Let’s build something awesome together!
 🌟 Feel free to adjust any part of it to better match your style!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeorme-Mondol)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerome-Mondol)](https://github.com/anuraghazra/github-readme-stats)
 
