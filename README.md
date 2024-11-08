@@ -10,7 +10,9 @@ Skills:  HTML / CSS /  JS / React
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Web Development 
 - 📫 How to reach me: jeromemondol11@gmail.com 
-- 😄 Pronouns: he/him 
+- 😄 Pronouns: he/him
+- Email: jeromemondol11@gmail.com
+- Linkedin: https://www.linkedin.com/in/jeormemondol/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jerome-Mondol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Jerome__22_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://with-jerome.netlify.app)  
