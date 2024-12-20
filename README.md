@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I am Jerome Mondol. A passionate Frontend Developer.
+👋 Hello! I am Jerome Mondol. A Frontend Developer.
 
 
 ## 🌐 Socials:
