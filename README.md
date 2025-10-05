@@ -1,13 +1,13 @@
-[![Banner](https://i.postimg.cc/1z9KDY5c/Your-paragraph-text.png)](https://postimg.cc/qN5nTwKz)
-
 # 🧿 Jerome Mondol  
 `Digital Craftsman (Builder/Developer)`
+
 
 
 Hey there! I'm **Jerome Mondol**, a student and builder who loves turning ideas into real projects with **AI**, **Arduino**, and **Web Technologies**.  
 Right now, I'm exploring how **hardware** and **intelligence** can work together — from creating plant-saving devices to developing full-stack web apps.  
 Always learning, always building. 🚀  
 
+---
 
 <div align="center">
 
@@ -32,14 +32,11 @@ Always learning, always building. 🚀
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
 ### 🗄️ Databases & Platforms
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-
 
 ### 🛠️ Development Tools
 
@@ -51,8 +48,6 @@ Always learning, always building. 🚀
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-
 
 ### 💻 Operating Systems
 
@@ -68,21 +63,27 @@ Always learning, always building. 🚀
 
 <div align="center">
 
-| ![Jerome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerome-Mondol&show_icons=true&theme=default&hide_border=true&bg_color=00000000) | ![Jerome's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerome-Mondol&theme=default&show_icons=true&hide_border=true&layout=compact) |
+| ![Jerome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerome-Mondol&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true) | ![Jerome's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerome-Mondol&hide_border=true&bg_color=00000000&layout=compact) |
 |:---:|:---:|
-
 
 </div>
 
+<div align="center">
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Jerome-Mondol&hide_border=true&background=00000000)
+
+</div>
+
+---
 
 <div align="center">
 
+### ✨ "Building tech that learns, grows, and inspires." ✨
 
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeromemondol)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeromemondol11@gmail.com)
-
 
 <br>
 
