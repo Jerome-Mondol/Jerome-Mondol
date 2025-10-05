@@ -3,9 +3,9 @@
 
 
 
-Hey there! I'm **Jerome Mondol**, a student and builder who loves turning ideas into real projects with **AI**, **Arduino**, and **Web Technologies**.  
-Right now, I'm exploring how **hardware** and **intelligence** can work together — from creating plant-saving devices to developing full-stack web apps.  
-Always learning, always building. 🚀  
+Hey there! I'm **Jerome Mondol**, a student and builder eager about turning ideas into real projects using **AI**, **Arduino**, and **Web Technologies**.  
+Currently, I'm exploring how **hardware** and **intelligence** can work together — from developing full-stack web apps to innovative tech experiments.  
+I’m always learning, continuously building, and pushing the boundaries of what I can create. 🚀
 
 ---
 
@@ -63,10 +63,16 @@ Always learning, always building. 🚀
 
 <div align="center">
 
-| ![Jerome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerome-Mondol&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true) | ![Jerome's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerome-Mondol&hide_border=true&bg_color=00000000&layout=compact) |
-|:---:|:---:|
+<!-- Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jerome-Mondol&theme=transparent&hide_border=true&bg_color=00000000" alt="Profile Summary" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerome-Mondol&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 
 </div>
+
+
+
 
 
 ---
