@@ -11,7 +11,7 @@ I’m always learning, continuously building, and pushing the boundaries of what
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerome-Mondol&theme=react-dark&hide_border=true&bg_color=00000000&color=61dafb&line=61dafb&point=ffffff&area=true&area_color=61dafb&title_color=ffffff)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerome-Mondol&theme=react-dark&hide_border=true&bg_color=00000000&color=61dafb&line=61dafb&point=61dafb&area=true&area_color=61dafb&title_color=ffffff)
 
 </div>
 
@@ -63,11 +63,9 @@ I’m always learning, continuously building, and pushing the boundaries of what
 
 <div align="center">
 
-<!-- Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jerome-Mondol&theme=transparent&hide_border=true&bg_color=00000000" alt="Profile Summary" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerome-Mondol&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+<!-- 2 Cards in One Line -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jerome-Mondol&theme=transparent&hide_border=true&bg_color=00000000" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerome-Mondol&layout=compact&theme=transparent&hide_border=true" height="180em" />
 
 </div>
 
