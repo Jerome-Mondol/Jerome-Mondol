@@ -11,9 +11,10 @@ I’m always learning, continuously building, and pushing the boundaries of what
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerome-Mondol&theme=react-dark&hide_border=true&bg_color=00000000&color=61dafb&line=61dafb&point=61dafb&area=true&area_color=61dafb&title_color=ffffff)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerome-Mondol&theme=tokyo-night&hide_border=true&bg_color=00000000&color=70a5fd&line=70a5fd&point=70a5fd&area=true&area_color=70a5fd&title_color=ffffff)
 
 </div>
+
 
 ---
 
