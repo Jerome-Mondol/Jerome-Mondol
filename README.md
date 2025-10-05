@@ -68,11 +68,6 @@ Always learning, always building. 🚀
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Jerome-Mondol&hide_border=true&background=00000000)
-
-</div>
 
 ---
 
