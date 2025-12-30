@@ -1,10 +1,10 @@
 # 🧿 Jerome Mondol  
-`anonymous coder`
+` 🤖 MERN developer`
 
 
 
-Hey there! I'm **Jerome Mondol**, a student and builder eager about turning ideas into real projects using **AI**, **Arduino**, and **Web Technologies**.  
-Currently, I'm exploring how **hardware** and **intelligence** can work together — from developing full-stack web apps to innovative tech experiments.  
+Hey there! I'm **Jerome Mondol**, a student and builder eager about turning ideas into real projects using **IoT**, **Arduino**, and **Web Technologies**.  
+Currently, I'm exploring how **hardware** and **intelligence** with **software** integration which can work together — from developing full-stack web apps to innovative tech experiments.  
 I’m always learning, continuously building, and pushing the boundaries of what I can create. 🚀
 
 ---
