@@ -64,6 +64,17 @@ Lately am:
 
 ---
 
+## 🌐 Social Links
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jerome_Mondol-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeromemondol/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeromemondol11@gmail.com)
+
+</div>
+
+---
+
 ## 📊 Development Stats
 
 <div align="center">
