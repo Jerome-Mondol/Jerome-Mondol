@@ -7,6 +7,10 @@ Hey there! I'm **Jerome Mondol**, a student and builder eager about turning idea
 Currently, I'm exploring how **hardware** and **intelligence** with **software** integration which can work together — from developing full-stack web apps to innovative tech experiments.  
 I’m always learning, continuously building, and pushing the boundaries of what I can create. 🚀
 
+Lately am: 
+- Exploring Next.js
+- Working on a website to help pet owners find a better marketplace.
+- Building a HR management system. 
 ---
 
 <div align="center">
