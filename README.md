@@ -1,6 +1,7 @@
 # 🧿 Jerome Mondol  
-` 🤖 MERN developer`
+`MERN`
 
+<img src="https://i.ibb.co.com/V0tg5srQ/8801824559038.png" />
 
 
 Hey there! I'm **Jerome Mondol**, a student and builder eager about turning ideas into real projects using **IoT**, **Arduino**, and **Web Technologies**.  
