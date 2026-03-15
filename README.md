@@ -1,101 +1,103 @@
-# 🧿 Jerome Mondol  
+<img src="https://i.ibb.co.com/TDTVYR23/Khulna-Bangladesh.png" alt="Khulna Bangladesh" border="0">
+
 `MERN Stack Developer • Full-Stack Builder`
 
-<img src="https://i.ibb.co.com/V0tg5srQ/8801824559038.png" />
+I am a ***MERN Stack Developer*** focused on building production-ready, real-world applications that combine clean user interfaces, scalable backend architecture, and practical problem solving.
 
-I’m **Jerome Mondol**, a MERN stack developer focused on building **real-world, production-style applications** that combine clean UI, solid backend architecture, and practical problem solving.
+My primary stack includes React, NextJS, Node.js, Express, and MongoDB, which I use to develop full-stack systems that are efficient, maintainable, and deployment-ready.
 
-I work with **React, Node.js, Express, and MongoDB** to create full-stack systems that are scalable, user-focused, and deployment-ready.
-
-📍 Based in Bangladesh — Open to Remote (Global)
+*Open to Remote Opportunities Worldwide*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🐾 Pet Marketplace Platform  
-A full-stack platform that connects pet owners and adopters with request approval workflows and role-based access.  
-**Tech:** React, Node, Express, MongoDB, Firebase Auth  
-🔗 Live: *https://pawmart-84610.web.app/* | 💻 Code: *https://github.com/Jerome-Mondol/pawmart-client*
+<details>
+<summary><b>🐾 Pet Marketplace Platform</b></summary>
 
-### 🏢 HR Management System  
-Internal management system for handling employee records, roles, and workflow tracking.  
-**Tech:** MERN, JWT Auth, REST API  
-🔗 Live: *https://asset-verse-d1aa8.web.app/* | 💻 Code: *https://github.com/Jerome-Mondol/assetVerse-client*
+A full-stack marketplace that connects pet owners with potential adopters.  
+The system includes approval workflows, role-based access control, and secure authentication.
+
+**Key Features**
+- Role-based access for admins and users
+- Pet listing and adoption request workflow
+- Request approval system for admins
+- Secure authentication with Firebase
+- Responsive UI for better user experience
+
+**Tech Stack**
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Firebase Authentication
+
+🔗 **Live:** https://pawmart-84610.web.app/  
+💻 **Code:** https://github.com/Jerome-Mondol/pawmart-client
+
+</details>
+
+
+<details>
+<summary><b>🏢 HR Management System</b></summary>
+
+A corporate asset and employee management system that allows organizations to manage employee records, track workflows, and handle internal operations efficiently.
+
+**Key Features**
+- Employee role management (Admin / HR / Employee)
+- Asset and resource tracking system
+- Secure JWT authentication
+- REST API architecture
+- Dashboard for workflow monitoring
+
+**Tech Stack**
+- MongoDB
+- Express.js
+- React
+- Node.js
+- JWT Authentication
+- REST APIs
+
+🔗 **Live:** https://asset-verse-d1aa8.web.app/  
+💻 **Code:** https://github.com/Jerome-Mondol/assetVerse-client
+
+</details>
 
 ---
 
-## 🧠 How I Build Software
 
-- Break systems into **modular, testable components**
-- Focus on **real users and usability**
-- Build MVP → Test → Improve cycle
-- Write clean APIs with structured error handling
-- Prefer practical architecture over overengineering
-
----
-
-## ⚔️ Tech Stack
+## 💻 Stack
 
 <div align="center">
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🛠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄 Database & Auth
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+<img src="https://skillicons.dev/icons?i=express" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+<img src="https://skillicons.dev/icons?i=supabase" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=postman" height="50"/>
+<img src="https://skillicons.dev/icons?i=figma" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 🤝 Connect With Me
+<div align="left"> <a href="mailto:jeromemondol11@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="75"/> </a> <a href="https://www.linkedin.com/in/jeromemondol/"> <img src="https://skillicons.dev/icons?i=linkedin" height="75"/> </a> <a href="https://github.com/Jerome-Mondol"> <img src="https://skillicons.dev/icons?i=github" height="75"/> </a> </div> <p align="center">
 
-<div align="center">
+📧 Email: jeromemondol11@gmail.com 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerome-Mondol&theme=tokyo-night&hide_border=true&bg_color=00000000&color=70a5fd&line=70a5fd&point=70a5fd&area=true&area_color=70a5fd&title_color=ffffff)
+🌐 LinkedIn: [linkedin.com/in/jeromemondol](https://www.linkedin.com/in/jeromemondol/)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jerome-Mondol&theme=transparent&hide_border=true" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerome-Mondol&layout=compact&theme=transparent&hide_border=true" height="180em" />
+💻 GitHub: [github.com/Jerome-Mondol](https://github.com/Jerome-Mondol)
 
-</div>
+📍 Location: Bangladesh (Open to Remote Opportunities)
 
----
-
-## 🌐 Contact
-
-<table align="center">
-  <tr border="none">
-    <td align="left" valign="middle">
-      <a href="https://www.linkedin.com/in/jeromemondol/">
-        <img src="https://img.shields.io/badge/LinkedIn-Jerome_Mondol-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <br/><br/>
-      <a href="mailto:jeromemondol11@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td align="right" valign="middle">
-        <img src="https://api.daily.dev/devcards/v2/oNBv27Cv0dHGWFADcZzaK.png?r=h2a&type=default" width="280" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎯 Career Focus  
-Building **scalable MERN applications** that combine strong backend logic with clean, modern frontend experiences.
+</p>
