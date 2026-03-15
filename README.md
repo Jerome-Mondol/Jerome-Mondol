@@ -69,21 +69,12 @@ A corporate asset and employee management system that allows organizations to ma
 ## 💻 Stack
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,js" height="50"/>
+<img src="https://skillicons.dev/icons?i=tailwind,figma" height="50"/>
+<img src="https://skillicons.dev/icons?i=redux,vite,postman,git,github" height="50"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,netlify" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode,linux,windows,arduino,discord,notion" height="50"/>
 
-<img src="https://skillicons.dev/icons?i=react" height="50"/>
-<img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
-<img src="https://skillicons.dev/icons?i=express" height="50"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
-<img src="https://skillicons.dev/icons?i=supabase" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=postman" height="50"/>
-<img src="https://skillicons.dev/icons?i=figma" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 
 </div>
 
