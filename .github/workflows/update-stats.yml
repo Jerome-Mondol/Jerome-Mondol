@@ -1,0 +1,33 @@
+name: Update README Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs automatically every night at midnight UTC
+  workflow_dispatch: # Allows you to manually trigger it anytime from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grants the action permission to push the SVG back into your repo
+      
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Top Languages SVG
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          # Customize your styling preferences right here:
+          options: username=Jerome-Mondol&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: profile/top-langs.svg # Saves the image file into a "profile" directory
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/top-langs.svg
+          git diff-index --quiet HEAD || git commit -m "chore: dynamically update top languages card [skip ci]"
+          git push
