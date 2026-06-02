@@ -66,7 +66,7 @@ A corporate asset and employee management system that allows organizations to ma
 ## 💻 Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,express,firebase,react,nodejs,nextjs,ts,js,bash,cpp,go" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,express,firebase,react,nodejs,nextjs,ts,js,bash,cpp" height="50"/>
   <br />
   <img src="https://skillicons.dev/icons?i=tailwind,figma" height="50"/>
   <img src="https://skillicons.dev/icons?i=redux,vite,postman,git,github,githubactions" height="50"/>
