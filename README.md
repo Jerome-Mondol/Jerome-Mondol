@@ -1,7 +1,7 @@
 <div align="center">
   <!-- <img src="https://i.ibb.co.com/TDTVYR23/Khulna-Bangladesh.png" alt="Khulna Bangladesh" border="0" /> -->
-  <img src="https://i.ibb.co.com/gLwL2zXR/Web-development-banner-design-2-K-202609021937.jpg" alt="Khulna Bangladesh" border="0" />
-  
+  <!-- <img src="https://i.ibb.co.com/gLwL2zXR/Web-development-banner-design-2-K-202609021937.jpg" alt="Khulna Bangladesh" border="0" /> -->
+  <img src="https://i.ibb.co.com/gLwL2zXR/Web-development-banner-design-2-K-202609021937.jpg" alt="Web-development-banner-design-2-K-202609021937" border="0" />
   
   # Hi, I'm Jerome Mondol 👋
   
